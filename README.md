@@ -79,7 +79,7 @@ conda create -p urlenv python==3.10 -y
  Activate the newly created environment
 conda activate urlenv/
 
-###3. Install Dependencies
+### 3. Install Dependencies
 pip install -r requirements.txt
 
 ### 4. Setup Enviroment
