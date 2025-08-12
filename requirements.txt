@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+validators
+# For UnstructuredURLLoader
+unstructured
+# For YoutubeLoader
+youtube-transcript-api
+pytube
+dotenv
+youtube-transcript-api
