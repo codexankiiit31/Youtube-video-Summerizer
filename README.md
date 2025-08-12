@@ -82,7 +82,7 @@ conda activate urlenv/
 ###3. Install Dependencies
 pip install -r requirements.txt
 
-###4. Setup Enviroment
+### 4. Setup Enviroment
  .env file
  Get your API key from the Groq console ([https://console.groq.com/keys](https://console.groq.com/keys))
  GROQ_API_KEY="YOUR_GROQ_API_KEY"
