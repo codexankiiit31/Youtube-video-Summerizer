@@ -2,6 +2,7 @@
 
 Quickly summarize any English-language YouTube video or website just by pasting its URL. This tool leverages the power of **LangChain** to orchestrate the workflow, **Groq's** ultra-fast API to run the Gemma2 model for summarization, and **Streamlit** to provide a clean, interactive user interface.
 
+
 ## ✨ Features
 
 * **YouTube & Website Support**: Summarize content from both YouTube videos (by extracting transcripts) and any public website.
